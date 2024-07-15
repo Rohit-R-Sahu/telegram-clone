@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .container-fluid {
+    @apply w-full;
+  }
+  .container-w{
+    @apply w-[80%];
+  }
+}

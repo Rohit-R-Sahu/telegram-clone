@@ -1,0 +1,9 @@
+::-webkit-scrollbar {
+  display: none;
+}
+
+.bg-telegram{
+  background-image: url('./assets//pattern-32.svg');
+  background-color: #bde09f;
+  background-size: contain;
+}
